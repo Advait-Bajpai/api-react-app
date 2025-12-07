@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Footer from './components/Footer'
 import SideBar from './components/SideBar'
-import Main from './components/main'
+import Main from './components/Main'
 
 function App() {
   const [data,setData] = useState(null)
